@@ -2,7 +2,7 @@
 - 👀 I’m interested in music, art, philosophy and work ^^
 - 🌱 I’m currently learning Java and Kotlin
 - 💞️ I’m looking to collaborate on Ubisoft!
-- 📫 How to reach me: Email: egogor02@gmail.com
+- 📫 How to reach me: Email: egogor02@gmail.com /n
 Telegram: @booeraque
 
 <!---
