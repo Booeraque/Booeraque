@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java and Kotlin
 - 💞️ I’m looking to collaborate on Ubisoft!
 - 📫 How to reach me: Email: egogor02@gmail.com
-Telegram: @@booeraque
+Telegram: @booeraque
 
 <!---
 Booeraque/Booeraque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
