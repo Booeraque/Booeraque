@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Booeraque
-- 👀 I’m interested in music, art, philosophy and work ^^
-- 🌱 I’m currently learning Java, Kotlin and C++
+- 👀 I’m interested in studying and work ^^
+- 🌱 I’m currently learning Java, C++, HTML, CSS and JavaScript.
 - 💞️ I’m looking for any job opportunities in the programming fields!
 - 📫 How to reach me: Email: booerakin@gmail.com;
 Telegram: @booeraque
